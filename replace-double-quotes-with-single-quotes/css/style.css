@@ -1,0 +1,6 @@
+* {
+  border-radius: 0 !important;
+}
+h1, textarea, button {
+  margin-top: 10px;
+}
